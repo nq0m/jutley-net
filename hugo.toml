@@ -1,0 +1,7 @@
+baseURL = 'https://www.jutley.net/'
+locale = 'en-us'
+title = 'My Tech Blog'
+theme = 'bilberry-hugo-theme'
+[params.author]
+  name = 'Jeremy Utley'
+  email = 'jeremy@jutley.net'
